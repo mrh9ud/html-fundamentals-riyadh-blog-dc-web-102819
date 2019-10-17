@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-image: linear-gradient(direction, color-stop1, color-stop2, ...)
+  background-image: linear-gradient(to bottom left, color-stop1, color-stop2, ...)
   background-color: black;
   background-size: cover;
   background-attachment: fixed;
